@@ -1,0 +1,28 @@
+{
+  "name": "teamgen",
+  "version": "1.0.0",
+  "description": "A command-line application to quickly generate a HTML webpage for a software engineering team",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uberponky/TeamGen.git"
+  },
+  "author": "Rory Simmonds",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uberponky/TeamGen/issues"
+  },
+  "homepage": "https://github.com/uberponky/TeamGen#readme",
+  "dependencies": {
+    "inquirer": "^9.2.15"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
