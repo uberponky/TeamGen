@@ -1,4 +1,4 @@
-import Intern from '../lib/Intern'
+import { Intern } from '../lib/Intern.js'
 
 test("Can set school via constructor", () => {
   const testValue = "UCLA";

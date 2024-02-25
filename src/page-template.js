@@ -1,4 +1,7 @@
-// creates the team
+/* Create HTML for team members area using
+   array of team member objects
+*/
+
 const generateTeam = team => {
 
     // creates the manager html

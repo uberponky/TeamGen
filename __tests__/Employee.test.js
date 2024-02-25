@@ -1,4 +1,4 @@
-import Employee from "../lib/Employee"
+import { Employee } from "../lib/Employee.js"
 
 test("Can instantiate Employee instance", () => {
   const e = new Employee();
