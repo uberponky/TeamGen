@@ -1,0 +1,13 @@
+/* General */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Sen', sans-serif;
+}
+
+.employee-card {
+  margin: 10px;
+  width: 31%;
+}
